@@ -50,6 +50,8 @@ function animate() {
   )
 }
 
+animate()
+
 window.addEventListener('keydown', (e) => {
   switch (e.key) {
     case 'w':
