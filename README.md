@@ -22,7 +22,7 @@
 - [x] Project Setup
 - [x] Import and render map
 - [x] Player creation
-- [ ] Move player through the map on keydown
+- [x] Move player through the map on keydown
 - [ ] Player-to-map-boundary collisions
 - [ ] Foreground objects
 - [ ] Player movement animation
