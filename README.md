@@ -1,6 +1,6 @@
 # Pokemon-Clone WIP
 
-# Checlist:
+# Checklist:
 
 ## Map Creating with Tiled Map Editor:
 
