@@ -23,7 +23,7 @@
 - [x] Import and render map
 - [x] Player creation
 - [x] Move player through the map on keydown
-- [ ] Player-to-map-boundary collisions
+- [x] Player-to-map-boundary collisions
 - [ ] Foreground objects
 - [ ] Player movement animation
 
